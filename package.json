@@ -4,6 +4,6 @@
     "refresh-site": "make docs && make publish"
   },
   "dependencies": {
-    "doctoc": "^1.3.0"
+    "doctoc": "^2.2.1"
   }
 }
